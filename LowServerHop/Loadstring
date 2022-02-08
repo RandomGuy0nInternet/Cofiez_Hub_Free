@@ -1,6 +1,8 @@
- 
-
 getgenv().SafeHop = false
+--[[khi false se tim server 1 nguoi,
+true se tim server 2 nguoi, 
+server 1 nguoi de bi truc trac hon server 2 nguoi]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomGuy0nInternet/Cofiez_Hub_Free/main/LowServerHop/MainScript "))()
 
 
 
